@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerInfo>
+    <ServerDic>
+        <int>1</int>
+        <Server id="1" name="天下无双1区" state="1" isNew="true"/>
+        <int>2</int>
+        <Server id="2" name="天下无双2区" state="2" isNew="true"/>
+        <int>3</int>
+        <Server id="3" name="天下无双3区" state="1" isNew="false"/>
+        <int>4</int>
+        <Server id="4" name="天下无双4区" state="3" isNew="false"/>
+        <int>5</int>
+        <Server id="5" name="天下无双5区" state="2" isNew="false"/>
+        <int>6</int>
+        <Server id="6" name="天下无双6区" state="1" isNew="false"/>
+        <int>7</int>
+        <Server id="7" name="天下无双7区" state="0" isNew="false"/>
+        <int>8</int>
+        <Server id="8" name="天下无双8区" state="2" isNew="false"/>
+        <int>9</int>
+        <Server id="9" name="天下无双9区" state="1" isNew="false"/>
+        <int>10</int>
+        <Server id="10" name="天下无双10区" state="3" isNew="false"/>
+        <int>11</int>
+        <Server id="11" name="天下无双11区" state="4" isNew="false"/>
+        <int>12</int>
+        <Server id="12" name="天下无双12区" state="1" isNew="true"/>
+        <int>13</int>
+        <Server id="13" name="笑傲江湖1区" state="2" isNew="true"/>
+        <int>14</int>
+        <Server id="14" name="笑傲江湖2区" state="1" isNew="true"/>
+        <int>15</int>
+        <Server id="15" name="笑傲江湖3区" state="3" isNew="false"/>
+        <int>16</int>
+        <Server id="16" name="笑傲江湖4区" state="2" isNew="false"/>
+        <int>17</int>
+        <Server id="17" name="笑傲江湖5区" state="1" isNew="false"/>
+        <int>18</int>
+        <Server id="18" name="笑傲江湖6区" state="5" isNew="false"/>
+        <int>19</int>
+        <Server id="19" name="笑傲江湖7区" state="2" isNew="false"/>
+        <int>20</int>
+        <Server id="20" name="笑傲江湖8区" state="1" isNew="false"/>
+        <int>21</int>
+        <Server id="21" name="笑傲江湖9区" state="3" isNew="false"/>
+        <int>22</int>
+        <Server id="22" name="笑傲江湖10区" state="2" isNew="false"/>
+        <int>23</int>
+        <Server id="23" name="笑傲江湖11区" state="0" isNew="false"/>
+        <int>24</int>
+        <Server id="24" name="笑傲江湖12区" state="4" isNew="true"/>
+        <int>25</int>
+        <Server id="25" name="龙腾四海1区" state="1" isNew="true"/>
+        <int>26</int>
+        <Server id="26" name="龙腾四海2区" state="3" isNew="true"/>
+        <int>27</int>
+        <Server id="27" name="龙腾四海3区" state="2" isNew="false"/>
+        <int>28</int>
+        <Server id="28" name="龙腾四海4区" state="1" isNew="false"/>
+        <int>29</int>
+        <Server id="29" name="龙腾四海5区" state="2" isNew="false"/>
+        <int>30</int>
+        <Server id="30" name="龙腾四海6区" state="1" isNew="false"/>
+        <int>31</int>
+        <Server id="31" name="龙腾四海7区" state="5" isNew="false"/>
+        <int>32</int>
+        <Server id="32" name="龙腾四海8区" state="2" isNew="false"/>
+        <int>33</int>
+        <Server id="33" name="龙腾四海9区" state="1" isNew="false"/>
+        <int>34</int>
+        <Server id="34" name="龙腾四海10区" state="3" isNew="false"/>
+        <int>35</int>
+        <Server id="35" name="龙腾四海11区" state="4" isNew="false"/>
+        <int>36</int>
+        <Server id="36" name="龙腾四海12区" state="1" isNew="true"/>
+        <int>37</int>
+        <Server id="37" name="逐鹿中原1区" state="2" isNew="true"/>
+        <int>38</int>
+        <Server id="38" name="逐鹿中原2区" state="1" isNew="true"/>
+        <int>39</int>
+        <Server id="39" name="逐鹿中原3区" state="0" isNew="false"/>
+        <int>40</int>
+        <Server id="40" name="逐鹿中原4区" state="3" isNew="false"/>
+        <int>41</int>
+        <Server id="41" name="逐鹿中原5区" state="2" isNew="false"/>
+        <int>42</int>
+        <Server id="42" name="逐鹿中原6区" state="1" isNew="false"/>
+        <int>43</int>
+        <Server id="43" name="逐鹿中原7区" state="5" isNew="false"/>
+        <int>44</int>
+        <Server id="44" name="逐鹿中原8区" state="2" isNew="false"/>
+        <int>45</int>
+        <Server id="45" name="逐鹿中原9区" state="1" isNew="false"/>
+        <int>46</int>
+        <Server id="46" name="逐鹿中原10区" state="4" isNew="false"/>
+        <int>47</int>
+        <Server id="47" name="逐鹿中原11区" state="3" isNew="false"/>
+        <int>48</int>
+        <Server id="48" name="逐鹿中原12区" state="1" isNew="true"/>
+        <int>49</int>
+        <Server id="49" name="风云再起1区" state="1" isNew="true"/>
+        <int>50</int>
+        <Server id="50" name="风云再起2区" state="2" isNew="true"/>
+        <int>51</int>
+        <Server id="51" name="风云再起3区" state="3" isNew="false"/>
+        <int>52</int>
+        <Server id="52" name="风云再起4区" state="1" isNew="false"/>
+        <int>53</int>
+        <Server id="53" name="风云再起5区" state="2" isNew="false"/>
+        <int>54</int>
+        <Server id="54" name="风云再起6区" state="0" isNew="false"/>
+        <int>55</int>
+        <Server id="55" name="风云再起7区" state="2" isNew="false"/>
+        <int>56</int>
+        <Server id="56" name="风云再起8区" state="1" isNew="false"/>
+        <int>57</int>
+        <Server id="57" name="风云再起9区" state="3" isNew="false"/>
+        <int>58</int>
+        <Server id="58" name="风云再起10区" state="2" isNew="false"/>
+        <int>59</int>
+        <Server id="59" name="风云再起11区" state="4" isNew="false"/>
+        <int>60</int>
+        <Server id="60" name="风云再起12区" state="1" isNew="true"/>
+        <int>61</int>
+        <Server id="61" name="剑指苍穹1区" state="3" isNew="true"/>
+        <int>62</int>
+        <Server id="62" name="剑指苍穹2区" state="1" isNew="true"/>
+        <int>63</int>
+        <Server id="63" name="剑指苍穹3区" state="2" isNew="false"/>
+        <int>64</int>
+        <Server id="64" name="剑指苍穹4区" state="1" isNew="false"/>
+        <int>65</int>
+        <Server id="65" name="剑指苍穹5区" state="5" isNew="false"/>
+        <int>66</int>
+        <Server id="66" name="剑指苍穹6区" state="2" isNew="false"/>
+        <int>67</int>
+        <Server id="67" name="剑指苍穹7区" state="1" isNew="false"/>
+        <int>68</int>
+        <Server id="68" name="剑指苍穹8区" state="0" isNew="false"/>
+        <int>69</int>
+        <Server id="69" name="剑指苍穹9区" state="3" isNew="false"/>
+        <int>70</int>
+        <Server id="70" name="剑指苍穹10区" state="2" isNew="false"/>
+        <int>71</int>
+        <Server id="71" name="剑指苍穹11区" state="1" isNew="false"/>
+        <int>72</int>
+        <Server id="72" name="剑指苍穹12区" state="4" isNew="true"/>
+        <int>73</int>
+        <Server id="73" name="九州同风1区" state="1" isNew="true"/>
+        <int>74</int>
+        <Server id="74" name="九州同风2区" state="2" isNew="true"/>
+        <int>75</int>
+        <Server id="75" name="九州同风3区" state="3" isNew="false"/>
+        <int>76</int>
+        <Server id="76" name="九州同风4区" state="1" isNew="false"/>
+        <int>77</int>
+        <Server id="77" name="九州同风5区" state="2" isNew="false"/>
+        <int>78</int>
+        <Server id="78" name="九州同风6区" state="5" isNew="false"/>
+        <int>79</int>
+        <Server id="79" name="九州同风7区" state="1" isNew="false"/>
+        <int>80</int>
+        <Server id="80" name="九州同风8区" state="0" isNew="false"/>
+        <int>81</int>
+        <Server id="81" name="九州同风9区" state="2" isNew="false"/>
+        <int>82</int>
+        <Server id="82" name="九州同风10区" state="1" isNew="false"/>
+        <int>83</int>
+        <Server id="83" name="九州同风11区" state="3" isNew="false"/>
+        <int>84</int>
+        <Server id="84" name="九州同风12区" state="4" isNew="true"/>
+        <int>85</int>
+        <Server id="85" name="万古长青1区" state="2" isNew="true"/>
+        <int>86</int>
+        <Server id="86" name="万古长青2区" state="1" isNew="true"/>
+        <int>87</int>
+        <Server id="87" name="万古长青3区" state="0" isNew="false"/>
+        <int>88</int>
+        <Server id="88" name="万古长青4区" state="3" isNew="false"/>
+        <int>89</int>
+        <Server id="89" name="万古长青5区" state="2" isNew="false"/>
+        <int>90</int>
+        <Server id="90" name="万古长青6区" state="1" isNew="false"/>
+    </ServerDic>
+</ServerInfo>
